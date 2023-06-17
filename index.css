@@ -5,7 +5,9 @@
     margin: 0;
     padding: 0;
   }
-  
+   #messages{
+    color: rgba(255, 255, 255, 0.5);;
+  }
   .addemployee {
     position: absolute;
     top: 50px;
